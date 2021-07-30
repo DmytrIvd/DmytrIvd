@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DmytrIvd
-- 👀 I’m interested in C++,C#,JS
-- 🌱 I’m currently learning C#,JS
+- 👀 I’m interested in C#,JS,ASP.NET
+- 🌱 I’m currently learning C#,JS,ASP.NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
